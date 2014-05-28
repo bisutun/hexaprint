@@ -25,36 +25,36 @@ line-height: 30%;
 	background-color:#4d4141;
 	color:#F0EFEF;
 	font-family:'Oleo Script', cursive;
-	font-size:50px;
+	font-size:30px;
 	font-weight:400;
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	height:100px;
-	width:300px;
+	height:80px;
+	width:200px;
 	text-align:center;
-	border-radius: 20px;
+	border-radius: 5px;
 	border: none;
 	line-height: 200%;
 
 }.button:hover {
-	background-color:#eb472a; /*Hi, Hackbright color!*/
+	background-color:#eb462a; /*Hi, Hackbright color!*/
 }
 
 
 .button2{
-	background-color:#eb472a; /*Hi, Hackbright color!*/
+	background-color:#eb462a; /*Hi, Hackbright color!*/
 	color:#F0EFEF;
 	font-family: 'Nunito', sans-serif;
-	font-size:35px;
+	font-size:20px;
 	font-weight:400;
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	height:100px;
-	width:400px;
+	height:80px;
+	width:250px;
 	text-align:center;
-	border-radius: 20px;
+	border-radius: 5px;
 	border: none;
 	line-height: 200%;
 }.button2:hover {
