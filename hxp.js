@@ -5,5 +5,7 @@ $(document).ready(function() {
      $('.button2').toggleClass('hide');
      $('p').toggleClass('hide');
   };
-	$(this).on('click', hidey);
+	$('.button').on('click', hidey);
+	$('.button2').on('click', hidey);
+
 })	
