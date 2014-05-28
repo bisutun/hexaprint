@@ -1,0 +1,88 @@
+
+h1 {
+text-align: center;
+color: #4d4141;
+font-size: 100px;
+font-family: 'Oleo Script', cursive;
+font-weight: 700;
+line-height: 80%;
+}
+
+h2 {
+text-align: center;
+color: #4d4141;
+font-size: 50px;
+font-family: 'Nunito', sans-serif;
+font-weight: 400;
+line-height: 30%;
+}
+
+.hide {
+	display:none;
+}
+
+.button{
+	background-color:#4d4141;
+	color:#F0EFEF;
+	font-family:'Oleo Script', cursive;
+	font-size:50px;
+	font-weight:400;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	height:100px;
+	width:200px;
+	text-align:center;
+	border-radius: 20px;
+	border: none;
+	line-height: 200%;
+
+}.button:hover {
+	background-color:#eb472a; /*Hi, Hackbright color!*/
+}
+
+
+.button2{
+	background-color:#eb472a; /*Hi, Hackbright color!*/
+	color:#F0EFEF;
+	font-family: 'Nunito', sans-serif;
+	font-size:35px;
+	font-weight:400;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	height:100px;
+	width:300px;
+	text-align:center;
+	border-radius: 20px;
+	border: none;
+	line-height: 200%;
+}.button2:hover {
+	background-color:#4d4141;
+}.
+
+body {
+	background-color: #F0EFEF;
+}
+h4 {
+	text-align: center;
+	font-size: 50px;
+	font-family:'Roboto', sans-serif;
+	font-weight:400; 
+	color: #eb472a;
+}
+p {
+	font-size: 14px;
+	font-family:'Roboto', sans-serif;
+	font-weight:400; 
+}
+#footer {
+	text-align: right;
+	position: relative;
+	float:bottom;
+	padding-top: 180px;
+	padding-right: 10px;
+}
+.hide {
+	display:none;
+}
