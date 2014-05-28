@@ -1,9 +1,9 @@
 $(document).ready(function() {
-  function hide() {
+  function hidey() {
      $('h4').toggleClass('hide');
      $('.button').toggleClass('hide');
      $('.button2').toggleClass('hide');
      $('p').toggleClass('hide');
   };
-	$(this).on('click', hide);
+	$(this).on('click', hidey);
 })	
